@@ -1,12 +1,50 @@
-# React + Vite
+# QuizMaster
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**ShopEase** is a modern, responsive product catalog and cart application built using **React**, **Redux**, **Vite**, and **Tailwind CSS**. It offers a sleek UI, category-based filtering, live search, and a fully functional cart system with quantity management and persistence via `localStorage`.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Live Demo
 
-## Expanding the ESLint configuration
+Check out the live site: 
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Features
+
+- **React + Vite**: Super fast development and build tool
+- **Tailwind CSS**: Utility-first modern styling
+- **State Persistence**: Uses `localStorage` to preserve cart state.
+- **Responsive UI**: Optimized for all screen sizes
+- **Skeleton Loaders** — Clean UI loading states during fetch
+- **Redux Toolkit** — Efficient state management for products, filters, and cart
+- **Clean UX** — Feedback-driven modals, visual quantity control, and smart layouts
+
+## Tech Stack
+
+- React 18
+- Vite
+- Tailwind CSS
+- Redux Toolkit
+
+## Installation
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/rohanbabbar983/ShopEase-Product-catalog
+   cd ShopEase-Product-catalog
+   
+2. Install dependencies
+    ```bash
+    npm install
+    ```
+3. Start the development server
+    ```bash
+    npm run dev
+    ```
+    
+## Usage
+
+Visit `http://localhost:5173` to see the application in action.
+
+## Contributing
+
+Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
+
