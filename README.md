@@ -5,7 +5,7 @@
 
 ## Live Demo
 
-Check out the live site: 
+Check out the live site: https://shopease-product-catalog.onrender.com/
 
 ## Features
 
