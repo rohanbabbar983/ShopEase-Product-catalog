@@ -1,4 +1,4 @@
-# QuizMaster
+# ShopEase
 
 **ShopEase** is a modern, responsive product catalog and cart application built using **React**, **Redux**, **Vite**, and **Tailwind CSS**. It offers a sleek UI, category-based filtering, live search, and a fully functional cart system with quantity management and persistence via `localStorage`.
 
